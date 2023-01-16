@@ -1,0 +1,41 @@
+{
+  "name": "winston-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "cypress:start": "cypress open",
+    "cypress:run": "cypress run",
+    "prisma:generate": "prisma generate",
+    "prisma:studio": "prisma studio",
+    "prisma:push": "prisma db push"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.8",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@next/font": "13.1.1",
+    "@prisma/client": "4.8.1",
+    "@radix-ui/react-icons": "^1.1.1",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.26",
+    "@types/react-dom": "18.0.10",
+    "eslint": "8.31.0",
+    "eslint-config-next": "13.1.1",
+    "framer-motion": "^6",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.41.5",
+    "react-use": "^17.4.0",
+    "typescript": "4.9.4"
+  },
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "prisma": "4.8.1"
+  }
+}

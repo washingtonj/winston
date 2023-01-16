@@ -1,0 +1,17 @@
+[
+  {
+      "title": "Orange Juice",
+      "description": "A refreshing and healthy drink made from freshly squeezed oranges.",
+      "imageUrl": "https://www.sabornamesa.com.br/media/k2/items/cache/b018fd5ec8f1b90a1c8015900c2c2630_XL.jpg"
+  },
+  {
+      "title": "Chicken Croquettes",
+      "description": "A delicious and crispy snack made from ground chicken, breadcrumbs and spices.",
+      "imageUrl": "https://receitinhas.com.br/wp-content/uploads/2022/08/Coxinha-de-charque.jpg"
+  },
+  {
+      "title": "Lasagna",
+      "description": "A traditional Italian dish made from layers of pasta, meat, and cheese, topped with a rich tomato sauce.",
+      "imageUrl": "https://img.itdg.com.br/tdg/images/recipes/000/000/876/324587/324587_original.jpg?mode=crop&width=710&height=400"
+  }
+]
